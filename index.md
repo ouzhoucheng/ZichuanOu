@@ -2,23 +2,105 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+[my Github homepage]([./another-page.html](https://github.com/ouzhoucheng)) 
+[my CSDN homepage]([./another-page.html](https://blog.csdn.net/weixin_46143152?type=blog))
+![WeChat Official Account](./img/miniEcar.jpg)
 
-[Link to another page](./another-page.html).
+# About Me
 
-There should be whitespace between paragraphs.
+区梓川，Zichuan Ou, TJU, Measurement and Control Technology and Instrument, from 2019 to 2023.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
+## My award
 
 > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
+
+
+<div class="csdn-card">
+  <a href="https://blog.csdn.net/weixin_46143152?type=blog" target="_blank">
+    <div class="csdn-card-content">
+      <div class="csdn-card-header">
+        <div class="csdn-card-title">
+          <h2>小电动车</h2>
+        </div>
+        <img src="https://profile.csdnimg.cn/1/C/9/1_weixin_46143152" alt="">
+        <img src="https://img-home.csdnimg.cn/images/20201124032511.png" alt="" style="width: 120px">
+      </div>
+      <div class="csdn-card-footer">
+        <div class="csdn-card-stats">
+          <p>访问：<span id="views">103,134</span></p>
+          <p>文章：<span id="fans">115</span></p>
+          <p>关注：<span id="fans">259</span></p>
+        </div>
+      </div>
+    </div>
+  </a>
+</div>
+
+<style>
+  .csdn-card {
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-shadow: 0 2px 2px rgba(0, 0, 0, 0.1);
+    max-width: 350px;
+    margin: 10px auto;
+    overflow: hidden;
+    transition: all 0.3s;
+  }
+
+  .csdn-card:hover {
+    box-shadow: 0 4px 4px rgba(0, 0, 0, 0.2);
+    transform: translateY(-2px);
+  }
+
+  .csdn-card-content {
+    padding: 16px;
+  }
+
+  .csdn-card-header {
+    display: flex;
+    align-items: center;
+    margin-bottom: 16px;
+  }
+
+  .csdn-card-header img {
+    width: 64px;
+    height: 64px;
+    border-radius: 50%;
+    margin-right: 16px;
+  }
+
+  .csdn-card-title {
+    flex: 1;
+  }
+  .csdn-card-title h2 {
+    margin: 0;
+    font-size: 20px;
+  }
+
+  .csdn-card-footer {
+    background-color: #f5f5f5;
+    padding: 16px;
+  }
+
+  .csdn-card-stats {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .csdn-card-stats p {
+    flex: 1;
+    margin: 0;
+    text-align: center;
+  }
+
+  .csdn-card-stats span {
+    font-weight: bold;
+  }
+</style>
+
 
 ### Header 3
 
