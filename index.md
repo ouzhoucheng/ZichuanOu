@@ -2,20 +2,6 @@
 layout: default
 ---
 
-[my Github homepage]([./another-page.html](https://github.com/ouzhoucheng)) 
-[my CSDN homepage]([./another-page.html](https://blog.csdn.net/weixin_46143152?type=blog))
-![WeChat Official Account](./img/miniEcar.jpg)
-
-# About Me
-
-区梓川，Zichuan Ou, TJU, Measurement and Control Technology and Instrument, from 2019 to 2023.
-
-## My award
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
 
 <div class="csdn-card">
   <a href="https://blog.csdn.net/weixin_46143152?type=blog" target="_blank">
@@ -24,8 +10,8 @@ layout: default
         <div class="csdn-card-title">
           <h2>小电动车</h2>
         </div>
-        <img src="https://profile.csdnimg.cn/1/C/9/1_weixin_46143152" alt="">
-        <img src="https://img-home.csdnimg.cn/images/20201124032511.png" alt="" style="width: 120px">
+        <img src="./img/CSDN_head.jpg" alt="">
+        <img src="./img/CSDN.png" alt="" style="width:120px;height:45px">
       </div>
       <div class="csdn-card-footer">
         <div class="csdn-card-stats">
@@ -38,13 +24,53 @@ layout: default
   </a>
 </div>
 
+<div class="csdn-card">
+  <a href="https://mp.weixin.qq.com/s?__biz=MzIzMjUzODU5NQ==&mid=2247484596&idx=1&sn=a6222d74b122a2ef72d7f87ddfbf08c6&chksm=e8922c38dfe5a52e2a30e62df7f695d1518b12b9f88d00f8fc6fcd2f914d27a91a33f8f662ab#rd" target="_blank">
+    <div class="csdn-card-content">
+      <div class="csdn-card-header">
+        <div class="csdn-card-title">
+          <h2>小电动车</h2>
+        </div>
+        <img src="./img/miniEcar.jpg" alt="" style="width:80px;height:auto;border-radius:5%;">
+        <img src="./img/WechatAccount.png" alt="" style="width:120px;height:50px;border-radius:5%;">
+      </div>
+      <div class="csdn-card-footer">
+        <div class="csdn-card-stats">
+          <p>原创：<span id="fans">8</span></p>
+          <p>关注：<span id="fans">871</span></p>
+        </div>
+      </div>
+    </div>
+  </a>
+</div>
+
+<div class="csdn-card">
+  <a href="https://github.com/ouzhoucheng" target="_blank">
+    <div class="csdn-card-content">
+      <div class="csdn-card-header">
+        <div class="csdn-card-title">
+          <h2>ouzhoucheng</h2>
+        </div>
+        <img src="./img/Taiji_Bagua.gif" alt="" style="width:80px;height:auto;border-radius:10%;">
+        <img src="./img/GitHub.png" alt="" style="width:120px;height:60px;border-radius:5%;">
+      </div>
+      <div class="csdn-card-footer">
+        <div class="csdn-card-stats">
+          <p>Repositories:<span id="fans">16</span></p>
+          <p>following:<span id="fans">15</span></p>
+        </div>
+      </div>
+    </div>
+  </a>
+</div>
+
 <style>
   .csdn-card {
     background-color: #fff;
-    border: 1px solid #ccc;
+    border:px solid #ccc;
     border-radius: 4px;
-    box-shadow: 0 2px 2px rgba(0, 0, 0, 0.1);
-    max-width: 350px;
+    box-shadow: 0 5px 5px rgba(0, 0, 0, 0.1);
+    max-width: 400px;
     margin: 10px auto;
     overflow: hidden;
     transition: all 0.3s;
@@ -100,6 +126,19 @@ layout: default
     font-weight: bold;
   }
 </style>
+
+# About Me
+
+区梓川，Zichuan Ou, TJU, Measurement and Control Technology and Instrument, from 2019 to 2023.
+
+## My award
+
+> This is a blockquote following a header.
+>
+> When something is important enough, you do it even if the odds are not in your favor.
+
+
+
 
 
 ### Header 3
