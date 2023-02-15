@@ -127,18 +127,59 @@ layout: default
   }
 </style>
 
-# About Me
+# 区梓川
 
-区梓川，Zichuan Ou, TJU, Measurement and Control Technology and Instrument, from 2019 to 2023.
+I am currently a student at `Tianjin University`, Major in `Measurement and Control Technology and Instrument`. I am interested in Embeded system, AI, Robotics, Autonomous. 
 
-## My award
+# My award
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+- `2nd Prize` in Tianjin, TI Cup National Undergraduate Electronics Design Contest
+- `1st Prize` in North China region The National University Students intelligent Car Race
+- `1st Prize` in national finals, The National University Students intelligent Car Race
+- `1st Prize` in national finals, TI Cup National Undergraduate Electronics Design Contest
 
-
-
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>四张图片排版</title>
+    <style>
+      .img-container {
+        width: 50%;
+        float: left;
+        padding: 10px;
+        box-sizing: border-box;
+      }
+      img {
+        width: 100%;
+        height: auto;
+        display: block;
+      }
+      .clear {
+        clear: both;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="img-container">
+      <img src="./img/Certificate_front.jpg" alt="图片1">
+    </div>
+    <div class="img-container">
+      <img src="./img/20EE_2nd_back.jpg" alt="图片2">
+    </div>
+    <div class="img-container">
+      <img src="./img/Certificate_back.jpg" alt="图片2">
+    </div>
+    <div class="clear"></div>
+    <div class="img-container">
+      <img src="./img/Certificate_NorthChina.jpg" alt="图片3">
+    </div>
+    <div class="img-container">
+      <img src="./img/Certificate_NationalFinals.jpg" alt="图片4">
+    </div>
+    <div class="clear"></div>
+  </body>
+</html>
 
 
 ### Header 3
