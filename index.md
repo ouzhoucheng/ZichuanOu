@@ -141,17 +141,17 @@ I am currently a student at `Tianjin University`, Major in `Measurement and Cont
 
 <div class="image-grid">
     <div class="image-item">
-        <img src="./img/Certificate_front.jpg" alt="Image 1"style="width:230px;height:auto;">
+        <img src="./img/Certificate_front.jpg" alt="Image 1">
     </div>
     <div class="image-item image-group">
         <img src="./img/Certificate_back.jpg" alt="Image 2">
         <img src="./img/20EE_2nd_back.jpg" alt="Image 3">
     </div>
     <div class="image-item">
-        <img src="./img/Certificate_NationalFinals.jpg" alt="Image 4"style="width:230px;height:auto;">
+        <img src="./img/Certificate_NationalFinals.jpg" alt="Image 4">
     </div>
     <div class="image-item">
-        <img src="./img/Certificate_NorthChina.jpg" alt="Image 5"style="width:230px;height:auto;">
+        <img src="./img/Certificate_NorthChina.jpg" alt="Image 5">
     </div>
 </div>
   
@@ -174,16 +174,16 @@ I am currently a student at `Tianjin University`, Major in `Measurement and Cont
 
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-    <div style="margin: 10px; width: 250px;">
+    <div style="margin: 10px; width: 300px;">
         <iframe src="https://player.bilibili.com/player.html?bvid=BV1tL4y1T7xn&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
     </div>
-    <div style="margin: 10px; width: 250px;">
+    <div style="margin: 10px; width: 300px;">
         <iframe src="https://player.bilibili.com/player.html?bvid=BV1tL4y1T7xn&page=3" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
     </div>
-    <div style="margin: 10px; width: 250px;">
+    <div style="margin: 10px; width: 300px;">
         <iframe src="https://player.bilibili.com/player.html?bvid=BV1tL4y1T7xn&page=4" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
     </div>
-    <div style="margin: 10px; width: 250px;">
+    <div style="margin: 10px; width: 300px;">
         <iframe src="https://player.bilibili.com/player.html?bvid=BV13L411K7ex&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>  </body>
     </div>
 </div>
