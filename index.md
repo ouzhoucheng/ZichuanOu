@@ -142,7 +142,7 @@ I am currently a student at `Tianjin University`, Major in `Measurement and Cont
 - `1st Prize` in national finals, The National University Students intelligent Car Race
 - `1st Prize` in national finals, TI Cup National Undergraduate Electronics Design Contest
 
-<table>
+<!-- <table>
   <tr>
     <td style="text-align: left;">Advanced individual in Learning Progress</td>
     <td style="text-align: right;">Dec. 2020</td>
@@ -175,7 +175,7 @@ I am currently a student at `Tianjin University`, Major in `Measurement and Cont
     <td style="text-align: left;">`1st Prize` in national finals, TI Cup National Undergraduate Electronics Design Contest</td>
     <td style="text-align: right;">Dec. 2021</td>
   </tr>
-</table>
+</table> -->
 
 
 <div class="image-grid">
@@ -212,7 +212,7 @@ I am currently a student at `Tianjin University`, Major in `Measurement and Cont
 </style>
 
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
     <div style="margin-bottom: 10px; width: 300px;">
         <iframe src="https://player.bilibili.com/player.html?bvid=BV1tL4y1T7xn&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
     </div>
