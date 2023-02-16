@@ -138,53 +138,52 @@ I am currently a student at `Tianjin University`, Major in `Measurement and Cont
 - `1st Prize` in national finals, The National University Students intelligent Car Race
 - `1st Prize` in national finals, TI Cup National Undergraduate Electronics Design Contest
 
-<html>
-  <head>
-    <meta charset="UTF-8">
-    <title>显示五张图片</title>
-    <style>
-      table {
-        border-collapse: collapse;
-        width: 100%;
-      }
-      td {
-        padding: 5px;
-        text-align: center;
-      }
-      img {
-        display: block;
-        max-width: 60%;
-        height: auto;
-      }
-    </style>
-  </head>
-  <body>
-    <table>
-      <tr>
-        <td rowspan="2"> <img src="./img/Certificate_front.jpg"style="width:4000px;height:auto;"></td>
-        <td><img src="./img/Certificate_back.jpg"style="width:4000px;height:auto;"></td>
-        <td rowspan="2"> <img src="./img/Certificate_NorthChina.jpg"style="width:4000px;height:auto;"></td>
-        <td rowspan="2"> <img src="./img/Certificate_NationalFinals.jpg"style="width:4000px;height:auto;"></td>
-      </tr>
-      <tr>
-        <td><img src="./img/20EE_2nd_back.jpg"></td>
-      </tr>
-    </table>
-  </body>
-</html>
+
+<div class="image-grid">
+    <div class="image-item">
+        <img src="./img/Certificate_front.jpg" alt="Image 1"style="width:230px;height:auto;">
+    </div>
+    <div class="image-item image-group">
+        <img src="./img/Certificate_back.jpg" alt="Image 2">
+        <img src="./img/20EE_2nd_back.jpg" alt="Image 3">
+    </div>
+    <div class="image-item">
+        <img src="./img/Certificate_NationalFinals.jpg" alt="Image 4"style="width:230px;height:auto;">
+    </div>
+    <div class="image-item">
+        <img src="./img/Certificate_NorthChina.jpg" alt="Image 5"style="width:230px;height:auto;">
+    </div>
+</div>
+  
+<style>
+    .image-grid {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+    }
+    .image-item {
+      width: calc(25% - 10px);
+      margin-bottom: 20px;
+    }
+    .image-group {
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+    }
+</style>
 
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-    <div style="margin: 10px; width: 300px;">
+    <div style="margin: 10px; width: 250px;">
         <iframe src="https://player.bilibili.com/player.html?bvid=BV1tL4y1T7xn&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
     </div>
-    <div style="margin: 10px; width: 300px;">
+    <div style="margin: 10px; width: 250px;">
         <iframe src="https://player.bilibili.com/player.html?bvid=BV1tL4y1T7xn&page=3" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
     </div>
-    <div style="margin: 10px; width: 300px;">
+    <div style="margin: 10px; width: 250px;">
         <iframe src="https://player.bilibili.com/player.html?bvid=BV1tL4y1T7xn&page=4" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
     </div>
-    <div style="margin: 10px; width: 300px;">
+    <div style="margin: 10px; width: 250px;">
         <iframe src="https://player.bilibili.com/player.html?bvid=BV13L411K7ex&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>  </body>
     </div>
 </div>
