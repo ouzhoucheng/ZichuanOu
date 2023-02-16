@@ -138,66 +138,60 @@ I am currently a student at `Tianjin University`, Major in `Measurement and Cont
 - `1st Prize` in national finals, The National University Students intelligent Car Race
 - `1st Prize` in national finals, TI Cup National Undergraduate Electronics Design Contest
 
-<!DOCTYPE html>
 <html>
   <head>
     <meta charset="UTF-8">
-    <title>4</title>
+    <title>显示五张图片</title>
     <style>
-      .img-container {
-        width: 50%;
-        float: left;
-        padding: 10px;
-        box-sizing: border-box;
+      table {
+        border-collapse: collapse;
+        width: 100%;
+      }
+      td {
+        padding: 5px;
+        text-align: center;
       }
       img {
-        width: 100%;
-        height: auto;
         display: block;
-      }
-      .clear {
-        clear: both;
+        max-width: 100%;
+        height: auto;
       }
     </style>
   </head>
   <body>
-    <div class="img-container">
-      <img src="./img/Certificate_front.jpg" alt="图片1">
-    </div>
-    <div class="img-container">
-      <img src="./img/20EE_2nd_back.jpg" alt="图片2">
-    </div>
-    <div class="img-container">
-      <img src="./img/Certificate_back.jpg" alt="图片2">
-    </div>
-    <div class="clear"></div>
-    <div class="img-container">
-      <img src="./img/Certificate_NorthChina.jpg" alt="图片3">
-    </div>
-    <div class="img-container">
-      <img src="./img/Certificate_NationalFinals.jpg" alt="图片4">
-    </div>
-    <div class="clear"></div>
+    <table>
+      <tr>
+        <!-- <td><img src="./img/Certificate_front.jpg"></td> -->
+        <td rowspan="2"><img src="./img/Certificate_front.jpg"style="width:4000px;height:auto;"></td>
+        <td><img src="./img/Certificate_back.jpg"style="width:4000px;height:auto;"></td>
+        <td rowspan="2"><img src="./img/Certificate_NorthChina.jpg"style="width:4000px;height:auto;"></td>
+        <!-- <td><img src="./img/Certificate_front.jpg"></td> -->
+        <td rowspan="2"><img src="./img/Certificate_NationalFinals.jpg"style="width:4000px;height:auto;"></td>
+      </tr>
+      <tr>
+        <!-- <td><br></td> -->
+        <td><img src="./img/20EE_2nd_back.jpg"></td>
+        <!-- <td><br></td> -->
+      </tr>
+    </table>
   </body>
 </html>
 
-<html>
-  <head>
-    <meta charset="UTF-8">
-    <title>B站视频播放器</title>
-  </head>
-  <body>
-    <iframe
-      src="https://www.bilibili.com/video/BV1tL4y1T7xn"
-      allowfullscreen
-      webkitallowfullscreen
-      mozallowfullscreen
-      scrolling="no"
-      frameborder="0"
-      style="width: 100%; height: 600px;">
-    </iframe>
-  </body>
-</html>
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+    <div style="margin: 10px; width: 300px;">
+        <iframe src="https://player.bilibili.com/player.html?bvid=BV1tL4y1T7xn&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+    </div>
+    <div style="margin: 10px; width: 300px;">
+        <iframe src="https://player.bilibili.com/player.html?bvid=BV1tL4y1T7xn&page=3" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+    </div>
+    <div style="margin: 10px; width: 300px;">
+        <iframe src="https://player.bilibili.com/player.html?bvid=BV1tL4y1T7xn&page=4" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+    </div>
+    <div style="margin: 10px; width: 300px;">
+        <iframe src="https://player.bilibili.com/player.html?bvid=BV13L411K7ex&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>  </body>
+    </div>
+</div>
 
 
 
