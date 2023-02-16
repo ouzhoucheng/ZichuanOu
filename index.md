@@ -131,12 +131,51 @@ layout: default
 
 I am currently a student at `Tianjin University`, Major in `Measurement and Control Technology and Instrument`. I am interested in Embeded system, AI, Robotics, Autonomous. 
 
-# My award
+# My awards
 
+- Advanced individual in Learning Progress 
+- Merit student in TJU
+- Merit team member in TJU smart-car Lab
+- Science & Technology excellence award
 - `2nd Prize` in Tianjin, TI Cup National Undergraduate Electronics Design Contest
 - `1st Prize` in North China region The National University Students intelligent Car Race
 - `1st Prize` in national finals, The National University Students intelligent Car Race
 - `1st Prize` in national finals, TI Cup National Undergraduate Electronics Design Contest
+
+<table>
+  <tr>
+    <td style="text-align: left;">Advanced individual in Learning Progress</td>
+    <td style="text-align: right;">Dec. 2020</td>
+  </tr>
+  <tr>
+    <td style="text-align: left;">Merit student in TJU</td>
+    <td style="text-align: right;">Dec. 2020</td>
+  </tr>
+  <tr>
+    <td style="text-align: left;">Merit team member in TJU smart-car Lab</td>
+    <td style="text-align: right;">May. 2021</td>
+  </tr>
+  <tr>
+    <td style="text-align: left;">Science & Technology excellence award</td>
+    <td style="text-align: right;">Dec. 2021</td>
+  </tr>
+  <tr>
+    <td style="text-align: left;">`2nd Prize` in Tianjin, TI Cup National Undergraduate Electronics Design Contest</td>
+    <td style="text-align: right;">Dec. 2020</td>
+  </tr>
+  <tr>
+    <td style="text-align: left;">`1st Prize` in North China region The National University Students intelligent Car Race</td>
+    <td style="text-align: right;">Jul. 2021</td>
+  </tr>
+  <tr>
+    <td style="text-align: left;">`1st Prize` in national finals, The National University Students intelligent Car Race</td>
+    <td style="text-align: right;">Aug. 2021</td>
+  </tr>
+  <tr>
+    <td style="text-align: left;">`1st Prize` in national finals, TI Cup National Undergraduate Electronics Design Contest</td>
+    <td style="text-align: right;">Dec. 2021</td>
+  </tr>
+</table>
 
 
 <div class="image-grid">
@@ -188,106 +227,11 @@ I am currently a student at `Tianjin University`, Major in `Measurement and Cont
     </div>
 </div>
 
-# my working
+# my working experience
 
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+- TI cup: Contactless temperature measurement & identification device
+- Smart car - AI vision track
+- TI cup: Intelligent drug delivery car
+- Embedded software intern in [Unity-Drive](https://www.unity-drive.com/index.html) for 8 months
 
 
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
