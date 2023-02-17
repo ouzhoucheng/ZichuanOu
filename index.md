@@ -2,6 +2,114 @@
 layout: default
 ---
 
+# 区梓川
+
+I am currently a student at `Tianjin University`, Major in `Measurement and Control Technology and Instrument`. I am interested in Embeded system, AI, Robotics, Autonomous. 
+
+# My awards
+
+- Advanced individual in Learning Progress 
+- Merit student in TJU
+- Merit team member in TJU smart-car Lab
+- Science & Technology excellence award
+- `2nd Prize` in Tianjin, TI Cup National Undergraduate Electronics Design Contest
+- `1st Prize` in North China region The National University Students intelligent Car Race
+- `1st Prize` in national finals, The National University Students intelligent Car Race
+- `1st Prize` in national finals, TI Cup National Undergraduate Electronics Design Contest
+
+<!-- <table>
+  <tr>
+    <td style="text-align: left;">Advanced individual in Learning Progress</td>
+    <td style="text-align: right;">Dec. 2020</td>
+  </tr>
+  <tr>
+    <td style="text-align: left;">Merit student in TJU</td>
+    <td style="text-align: right;">Dec. 2020</td>
+  </tr>
+  <tr>
+    <td style="text-align: left;">Merit team member in TJU smart-car Lab</td>
+    <td style="text-align: right;">May. 2021</td>
+  </tr>
+  <tr>
+    <td style="text-align: left;">Science & Technology excellence award</td>
+    <td style="text-align: right;">Dec. 2021</td>
+  </tr>
+  <tr>
+    <td style="text-align: left;">`2nd Prize` in Tianjin, TI Cup National Undergraduate Electronics Design Contest</td>
+    <td style="text-align: right;">Dec. 2020</td>
+  </tr>
+  <tr>
+    <td style="text-align: left;">`1st Prize` in North China region The National University Students intelligent Car Race</td>
+    <td style="text-align: right;">Jul. 2021</td>
+  </tr>
+  <tr>
+    <td style="text-align: left;">`1st Prize` in national finals, The National University Students intelligent Car Race</td>
+    <td style="text-align: right;">Aug. 2021</td>
+  </tr>
+  <tr>
+    <td style="text-align: left;">`1st Prize` in national finals, TI Cup National Undergraduate Electronics Design Contest</td>
+    <td style="text-align: right;">Dec. 2021</td>
+  </tr>
+</table> -->
+
+
+<div class="image-grid">
+    <div class="image-item">
+        <img src="./img/Certificate_front.jpg" alt="Image 1">
+    </div>
+    <div class="image-item image-group">
+        <img src="./img/Certificate_back.jpg" alt="Image 2">
+        <img src="./img/20EE_2nd_back.jpg" alt="Image 3">
+    </div>
+    <div class="image-item">
+        <img src="./img/Certificate_NationalFinals.jpg" alt="Image 4">
+    </div>
+    <div class="image-item">
+        <img src="./img/Certificate_NorthChina.jpg" alt="Image 5">
+    </div>
+</div>
+  
+<style>
+    .image-grid {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+    }
+    .image-item {
+      width: calc(25% - 10px);
+      margin-bottom: 20px;
+    }
+    .image-group {
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+    }
+</style>
+
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+    <div style="margin-bottom: 10px; width: 300px;">
+        <iframe src="https://player.bilibili.com/player.html?bvid=BV1tL4y1T7xn&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+    </div>
+    <!-- <div style="margin-bottom: 10px; width: 300px;">
+        <iframe src="https://player.bilibili.com/player.html?bvid=BV1tL4y1T7xn&page=3" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+    </div>
+    <div style="margin-bottom: 10px; width: 300px;">
+        <iframe src="https://player.bilibili.com/player.html?bvid=BV1tL4y1T7xn&page=4" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+    </div> -->
+    <div style="margin-bottom: 10px; width: 300px;">
+        <iframe src="https://player.bilibili.com/player.html?bvid=BV13L411K7ex&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>  </body>
+    </div>
+</div>
+
+# my working experience
+
+- TI cup: Contactless temperature measurement & identification device
+- Smart car - AI vision track
+- TI cup: Intelligent drug delivery car
+- Embedded software intern in [Unity-Drive](https://www.unity-drive.com/index.html) for 8 months
+
+# my pages
 
 <div class="csdn-card">
   <a href="https://blog.csdn.net/weixin_46143152?type=blog" target="_blank">
@@ -126,112 +234,3 @@ layout: default
     font-weight: bold;
   }
 </style>
-
-# 区梓川
-
-I am currently a student at `Tianjin University`, Major in `Measurement and Control Technology and Instrument`. I am interested in Embeded system, AI, Robotics, Autonomous. 
-
-# My awards
-
-- Advanced individual in Learning Progress 
-- Merit student in TJU
-- Merit team member in TJU smart-car Lab
-- Science & Technology excellence award
-- `2nd Prize` in Tianjin, TI Cup National Undergraduate Electronics Design Contest
-- `1st Prize` in North China region The National University Students intelligent Car Race
-- `1st Prize` in national finals, The National University Students intelligent Car Race
-- `1st Prize` in national finals, TI Cup National Undergraduate Electronics Design Contest
-
-<!-- <table>
-  <tr>
-    <td style="text-align: left;">Advanced individual in Learning Progress</td>
-    <td style="text-align: right;">Dec. 2020</td>
-  </tr>
-  <tr>
-    <td style="text-align: left;">Merit student in TJU</td>
-    <td style="text-align: right;">Dec. 2020</td>
-  </tr>
-  <tr>
-    <td style="text-align: left;">Merit team member in TJU smart-car Lab</td>
-    <td style="text-align: right;">May. 2021</td>
-  </tr>
-  <tr>
-    <td style="text-align: left;">Science & Technology excellence award</td>
-    <td style="text-align: right;">Dec. 2021</td>
-  </tr>
-  <tr>
-    <td style="text-align: left;">`2nd Prize` in Tianjin, TI Cup National Undergraduate Electronics Design Contest</td>
-    <td style="text-align: right;">Dec. 2020</td>
-  </tr>
-  <tr>
-    <td style="text-align: left;">`1st Prize` in North China region The National University Students intelligent Car Race</td>
-    <td style="text-align: right;">Jul. 2021</td>
-  </tr>
-  <tr>
-    <td style="text-align: left;">`1st Prize` in national finals, The National University Students intelligent Car Race</td>
-    <td style="text-align: right;">Aug. 2021</td>
-  </tr>
-  <tr>
-    <td style="text-align: left;">`1st Prize` in national finals, TI Cup National Undergraduate Electronics Design Contest</td>
-    <td style="text-align: right;">Dec. 2021</td>
-  </tr>
-</table> -->
-
-
-<div class="image-grid">
-    <div class="image-item">
-        <img src="./img/Certificate_front.jpg" alt="Image 1">
-    </div>
-    <div class="image-item image-group">
-        <img src="./img/Certificate_back.jpg" alt="Image 2">
-        <img src="./img/20EE_2nd_back.jpg" alt="Image 3">
-    </div>
-    <div class="image-item">
-        <img src="./img/Certificate_NationalFinals.jpg" alt="Image 4">
-    </div>
-    <div class="image-item">
-        <img src="./img/Certificate_NorthChina.jpg" alt="Image 5">
-    </div>
-</div>
-  
-<style>
-    .image-grid {
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: space-between;
-    }
-    .image-item {
-      width: calc(25% - 10px);
-      margin-bottom: 20px;
-    }
-    .image-group {
-      display: flex;
-      flex-direction: column;
-      justify-content: space-between;
-    }
-</style>
-
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center;">
-    <div style="margin-bottom: 10px; width: 300px;">
-        <iframe src="https://player.bilibili.com/player.html?bvid=BV1tL4y1T7xn&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-    </div>
-    <div style="margin-bottom: 10px; width: 300px;">
-        <iframe src="https://player.bilibili.com/player.html?bvid=BV1tL4y1T7xn&page=3" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-    </div>
-    <div style="margin-bottom: 10px; width: 300px;">
-        <iframe src="https://player.bilibili.com/player.html?bvid=BV1tL4y1T7xn&page=4" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-    </div>
-    <div style="margin-bottom: 10px; width: 300px;">
-        <iframe src="https://player.bilibili.com/player.html?bvid=BV13L411K7ex&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>  </body>
-    </div>
-</div>
-
-# my working experience
-
-- TI cup: Contactless temperature measurement & identification device
-- Smart car - AI vision track
-- TI cup: Intelligent drug delivery car
-- Embedded software intern in [Unity-Drive](https://www.unity-drive.com/index.html) for 8 months
-
-
