@@ -1,7 +1,49 @@
 ---
-layout: page
-title: Home
+layout: default
 ---
+
+{% include home-header.html %}
+
+<!-- <div class="posts">
+  {% for post in paginator.posts %}
+  <section class="post-entry">
+    <h2 class="post-title">
+      <a href="{{ post.url | relative_url }}">
+        {{ post.title }}
+      </a>
+    </h2>
+
+    <div class="post-meta">
+      <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_string }}</time>
+      {%- if jekyll.environment == "production" and site.disqus -%}
+        <span> • </span>
+        <a class="comment-count" href="{{ post.url | relative_url }}#disqus_thread">
+          <span class="disqus-comment-count" data-disqus-url="{{ post.url | absolute_url }}"></span>
+        </a>
+      {%- endif -%}
+    </div>
+
+    <p>{{ post.excerpt | strip_html }}</p>
+  </section>
+  {% endfor %}
+  {%- if jekyll.environment == "production" and site.disqus -%}
+    <script id="dsq-count-scr" src="//{{ site.disqus }}.disqus.com/count.js" async></script>
+  {%- endif -%}
+</div>
+
+<div class="pagination">
+  {% if paginator.next_page %}
+    <a class="pagination-item older" href="{{ paginator.next_page_path | relative_url }}">Older</a>
+  {% else %}
+    <span class="pagination-item older">Older</span>
+  {% endif %}
+  {% if paginator.previous_page %}
+    <a class="pagination-item newer" href="{{ paginator.previous_page_path | prepend: relative_url }}">Newer</a>
+  {% else %}
+    <span class="pagination-item newer">Newer</span>
+  {% endif %}
+</div> -->
+
 
 # Zichuan Ou
 
@@ -20,17 +62,17 @@ I am currently a student at `Tianjin University`, Major in `Measurement and Cont
 
 <div class="image-grid">
     <div class="image-item">
-        <img src="./img/a4_Certificate_front.jpg" alt="Image 1">
+        <img src="../img/a4_Certificate_front.jpg" alt="Image 1">
     </div>
     <div class="image-item image-group">
-        <img src="./img/a5_Certificate_back.jpg" alt="Image 2">
-        <img src="./img/a2_20EE_2nd_back.jpg" alt="Image 3">
+        <img src="../img/a5_Certificate_back.jpg" alt="Image 2">
+        <img src="../img/a2_20EE_2nd_back.jpg" alt="Image 3">
     </div>
     <div class="image-item">
-        <img src="./img/a6_Certificate_NationalFinals.jpg" alt="Image 4">
+        <img src="../img/a6_Certificate_NationalFinals.jpg" alt="Image 4">
     </div>
     <div class="image-item">
-        <img src="./img/a5_Certificate_NorthChina.jpg" alt="Image 5">
+        <img src="../img/a5_Certificate_NorthChina.jpg" alt="Image 5">
     </div>
 </div>
   
@@ -77,8 +119,8 @@ I am currently a student at `Tianjin University`, Major in `Measurement and Cont
         <div class="csdn-card-title">
           <h2>小电动车</h2>
         </div>
-        <img src="./img/c2_CSDN_head.jpg" alt="">
-        <img src="./img/c1_CSDN.png" alt="" style="width:120px;height:45px">
+        <img src="../img/c2_CSDN_head.jpg" alt="">
+        <img src="../img/c1_CSDN.png" alt="" style="width:120px;height:45px">
       </div>
       <div class="csdn-card-footer">
         <div class="csdn-card-stats">
@@ -98,8 +140,8 @@ I am currently a student at `Tianjin University`, Major in `Measurement and Cont
         <div class="csdn-card-title">
           <h2>小电动车</h2>
         </div>
-        <img src="./img/b1_miniEcar.jpg" alt="" style="width:80px;height:auto;border-radius:5%;">
-        <img src="./img/c4_WechatAccount.png" alt="" style="width:120px;height:50px;border-radius:5%;">
+        <img src="../img/b1_miniEcar.jpg" alt="" style="width:80px;height:auto;border-radius:5%;">
+        <img src="../img/c4_WechatAccount.png" alt="" style="width:120px;height:50px;border-radius:5%;">
       </div>
       <div class="csdn-card-footer">
         <div class="csdn-card-stats">
@@ -118,8 +160,8 @@ I am currently a student at `Tianjin University`, Major in `Measurement and Cont
         <div class="csdn-card-title">
           <h2>ouzhoucheng</h2>
         </div>
-        <img src="./img/b2_Taiji_Bagua.gif" alt="" style="width:80px;height:auto;border-radius:10%;">
-        <img src="./img/c3_GitHub.png" alt="" style="width:120px;height:60px;border-radius:5%;">
+        <img src="../img/b2_Taiji_Bagua.gif" alt="" style="width:80px;height:auto;border-radius:10%;">
+        <img src="../img/c3_GitHub.png" alt="" style="width:120px;height:60px;border-radius:5%;">
       </div>
       <div class="csdn-card-footer">
         <div class="csdn-card-stats">
