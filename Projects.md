@@ -24,7 +24,7 @@ title: Project experience
 - **Award:** **1st Prize** in national finals, The National University Students intelligent Car Race
 - [video](https://www.bilibili.com/video/BV1tL4y1T7xn/) [code](https://github.com/ouzhoucheng/S-M-A-R-T-C-A-R)
 
-<img src="../img/b8_SmartCar.jpg" alt="Image 2" style="width: auto;height: 400px;">
+<img src="../img/b8_SmartCar.jpg" alt="Image 2" style="width: auto;height: 300px;">
 
 <div style="display: inline-block;">
   <div class="csdn-card" style="float: left; margin-right: 20px;">
@@ -46,7 +46,7 @@ title: Project experience
 - **Award:** **1st Prize** in national finals, TI Cup National Undergraduate Electronics Design Contest
 - [video](https://www.bilibili.com/video/BV13L411K7ex/?vd_source=9b67f8488b53e45de247e5881ac151bf) [code](https://github.com/ouzhoucheng/T-I-C-U-P)
 
-<img src="../img/b9_Tricycles.jpg" alt="Image 3" style="width: auto;height: 400px;">
+<img src="../img/b9_Tricycles.jpg" alt="Image 3" style="width: auto;height: 300px;">
 
 <iframe src="https://player.bilibili.com/player.html?bvid=BV13L411K7ex&page=1" scrolling="no" width="450" height="270" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
