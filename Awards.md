@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Awards
+title: Awards2
 ---
 <img src="./a9_MeritStudent.jpg" alt="Image 1" style="width: auto;height: 200px;">
   
