@@ -23,11 +23,11 @@ title: Project experience
 - [video](https://www.bilibili.com/video/BV1tL4y1T7xn/) [code](https://github.com/ouzhoucheng/S-M-A-R-T-C-A-R)
 
 <div style="display: inline-block;">
-  <div class="csdn-card" style="float: left; margin-right: 40px;">
-    <iframe src="https://player.bilibili.com/player.html?bvid=BV1tL4y1T7xn&page=1" scrolling="no" width="420" height="280" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+  <div class="csdn-card" style="float: left; margin-right: 20px;">
+    <iframe src="https://player.bilibili.com/player.html?bvid=BV1tL4y1T7xn&page=1" scrolling="no" width="400" height="240" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
   </div>
   <div class="csdn-card" style="float: right;">
-    <iframe src="https://player.bilibili.com/player.html?bvid=BV1tL4y1T7xn&page=4" scrolling="no" width="420" height="280" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+    <iframe src="https://player.bilibili.com/player.html?bvid=BV1tL4y1T7xn&page=4" scrolling="no" width="400" height="240" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
   </div>
 </div>
 
@@ -42,7 +42,7 @@ title: Project experience
 - **Award:** **1st Prize** in national finals, TI Cup National Undergraduate Electronics Design Contest
 - [video](https://www.bilibili.com/video/BV13L411K7ex/?vd_source=9b67f8488b53e45de247e5881ac151bf) [code](https://github.com/ouzhoucheng/T-I-C-U-P)
 
-<iframe src="https://player.bilibili.com/player.html?bvid=BV13L411K7ex&page=1" scrolling="no" width="480" height="320" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe src="https://player.bilibili.com/player.html?bvid=BV13L411K7ex&page=1" scrolling="no" width="450" height="270" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 # Internship: Embedded software intern in Unity-Drive
 - **Date:** Jun. 2022 - Feb. 2023
