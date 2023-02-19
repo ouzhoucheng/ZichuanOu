@@ -33,7 +33,7 @@ title: Project experience
 
 
 
-# TI cup: Intelligent drug delivery car Nov. 2021
+# TI cup: Intelligent drug delivery car
 - **Date:** Nov. 2021
 - **Abstract:** The drug delivery car can recognize numbers, patrol the line, delivery the drug, return and work with another car.
 - **Position:**Team leader 
