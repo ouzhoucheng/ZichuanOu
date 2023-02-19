@@ -14,7 +14,7 @@ title: Awards2
  **Dec. 2020:** `2nd Prize` in Tianjin, TI Cup National Undergraduate Electronics Design Contest
 
 <div style="display: flex;">
-  <img src="../img/a1_20EE_2nd_front.jpg" alt="image 3" style="width: auto;height: 300px;">
+  <img src="../img/a1_20EE_2nd_front.jpg" alt="image 3" style="width: auto;height: 300px;margin-right: 30px;">
   <img src="../img/a2_20EE_2nd_back.jpg" alt="image 4" style="width: auto;height: 300px;">
 </div>
 
@@ -37,7 +37,7 @@ title: Awards2
  **Dec. 2021:** `1st Prize` in national finals, TI Cup National Undergraduate Electronics Design Contest
 
 <div style="display: flex;">
-  <img src="../img/a4_Certificate_front.jpg" alt="image 9" style="width: auto;height: 300px;">
+  <img src="../img/a4_Certificate_front.jpg" alt="image 9" style="width: auto;height: 300px;margin-right: 30px;">
   <img src="../img/a3_Certificate_back.jpg" alt="image 10" style="width: auto;height: 300px;">
 </div>
 
