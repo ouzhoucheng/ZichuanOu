@@ -33,6 +33,6 @@ title: Project experience
 
 # Internship: Embedded software intern in Unity-Drive
 - **Date:** Jun. 2022 - Feb. 2023
-- Develop and maintain the embedded devices in the autonomous vehicle "Hercules", include VCU(Vehicle Control Unit), SSU(Sensor Syncronization Unit) and T-Box(Telematics box).
+- Develop and maintain the embedded devices in the autonomous vehicle "Hercules", include VCU(Vehicle Control Unit), SSU(Sensor Syncronization Unit), BCM(Body Control Unit) and T-Box(Telematics box).
 - Develop chassis controller in the ACU(Automated-Driving Control Unit) internal mcu.
 - <https://www.unity-drive.com/>
