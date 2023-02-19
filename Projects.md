@@ -22,6 +22,10 @@ title: Project experience
 - **Award:** **1st Prize** in national finals, The National University Students intelligent Car Race
 - [video](https://www.bilibili.com/video/BV1tL4y1T7xn/) [code](https://github.com/ouzhoucheng/S-M-A-R-T-C-A-R)
 
+<iframe src="https://player.bilibili.com/player.html?bvid=BV1tL4y1T7xn&page=1" scrolling="no" width="540" height="360" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
+<iframe src="https://player.bilibili.com/player.html?bvid=BV1tL4y1T7xn&page=4" scrolling="no" width="540" height="360" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
 # TI cup: Intelligent drug delivery car Nov. 2021
 - **Date:** Nov. 2021
 - **Abstract:** The drug delivery car can recognize numbers, patrol the line, delivery the drug, return and work with another car.
@@ -30,6 +34,8 @@ title: Project experience
   2. I used C to developed RT1064 MCU, read RGB images, extract read line and planned the paths; I designed a state machine to control the car.
 - **Award:** **1st Prize** in national finals, TI Cup National Undergraduate Electronics Design Contest
 - [video](https://www.bilibili.com/video/BV13L411K7ex/?vd_source=9b67f8488b53e45de247e5881ac151bf) [code](https://github.com/ouzhoucheng/T-I-C-U-P)
+
+<iframe src="https://player.bilibili.com/player.html?bvid=BV13L411K7ex&page=1" scrolling="no" width="720" height="540" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 # Internship: Embedded software intern in Unity-Drive
 - **Date:** Jun. 2022 - Feb. 2023
