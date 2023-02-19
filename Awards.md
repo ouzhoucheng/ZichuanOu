@@ -2,19 +2,19 @@
 layout: page
 title: Awards2
 ---
-<img src="./a9_MeritStudent.jpg" alt="Image 1" style="width: auto;height: 200px;">
+<img src="../a9_MeritStudent.jpg" alt="Image 1" style="width: auto;height: 200px;">
   
  <!-- **Dec. 2020:** Merit student in TJU
 
 
  **Dec. 2020:** Advanced individual in Learning Progress -->
 
-<img src="./img/a10_AdvancedIndividual.jpg" alt="Image 2" style="width: auto;height: 200px;">
+<img src=".././img/a10_AdvancedIndividual.jpg" alt="Image 2" style="width: auto;height: 200px;">
 
  <!-- **Dec. 2020:** `2nd Prize` in Tianjin, TI Cup National Undergraduate Electronics Design Contest -->
 
 <div style="display: flex;">
-  <img src="./img/a1_20EE_2nd_front.jpg" alt="image 3" style="width: auto;height: 200px;">
+  <img src="../../img/a1_20EE_2nd_front.jpg" alt="image 3" style="width: auto;height: 200px;">
   <img src="./img/a2_20EE_2nd_back.jpg" alt="image 4" style="width: auto;height: 200px;">
 </div>
 
