@@ -2,10 +2,10 @@
 layout: page
 title: Awards
 ---
-  
- **Dec. 2020:** Merit student in TJU
-
 <img src="./img/a9_MeritStudent.jpg" alt="Image 1" style="width: auto;height: 200px;">
+  
+ <!-- **Dec. 2020:** Merit student in TJU
+
 
  **Dec. 2020:** Advanced individual in Learning Progress
 
@@ -43,4 +43,4 @@ title: Awards
 
  **Oct. 2022:** Science & Technology excellence award
 
-  <img src="./img/a8_2022Excellence.jpg" alt="Image 11" style="width: auto;height: 200px;">
+  <img src="./img/a8_2022Excellence.jpg" alt="Image 11" style="width: auto;height: 200px;"> -->
