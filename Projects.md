@@ -12,6 +12,8 @@ title: Project experience
 - **Award:** **2nd Prize** in Tianjin, TI Cup National Undergraduate Electronics Design Contest
 - [code](https://github.com/ouzhoucheng/open-cv-face-recognition)
 
+<img src="../img/b7_FaceRecognitionDevice.jpg" alt="Image 1" style="width: auto;height: 300px;">
+
 # Smart car - AI vision track
 - **Date:** Jan. 2021 - Aug. 2021
 - **Adstract:** The car can run for more than 2 mins; it can identify images and complete some actions; it can run 2 laps around the track, identify Numbers, Apriltags, images and complete the identification, targeting, etc.
@@ -21,6 +23,8 @@ title: Project experience
   3. I used AD to design the PCBs and completed all the welding.
 - **Award:** **1st Prize** in national finals, The National University Students intelligent Car Race
 - [video](https://www.bilibili.com/video/BV1tL4y1T7xn/) [code](https://github.com/ouzhoucheng/S-M-A-R-T-C-A-R)
+
+<img src="../img/b8_SmartCar.jpg" alt="Image 2" style="width: auto;height: 400px;">
 
 <div style="display: inline-block;">
   <div class="csdn-card" style="float: left; margin-right: 20px;">
@@ -41,6 +45,8 @@ title: Project experience
   2. I used C to developed RT1064 MCU, read RGB images, extract read line and planned the paths; I designed a state machine to control the car.
 - **Award:** **1st Prize** in national finals, TI Cup National Undergraduate Electronics Design Contest
 - [video](https://www.bilibili.com/video/BV13L411K7ex/?vd_source=9b67f8488b53e45de247e5881ac151bf) [code](https://github.com/ouzhoucheng/T-I-C-U-P)
+
+<img src="../img/b9_Tricycles.jpg" alt="Image 3" style="width: auto;height: 400px;">
 
 <iframe src="https://player.bilibili.com/player.html?bvid=BV13L411K7ex&page=1" scrolling="no" width="450" height="270" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
