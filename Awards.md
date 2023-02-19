@@ -2,12 +2,12 @@
 layout: page
 title: Awards2
 ---
-<!-- <img src="../a9_MeritStudent.jpg" alt="Image 1" style="width: auto;height: 300px;"> -->
   
- **Dec. 2020:** Merit student in TJU
+- **Dec. 2020:** Merit student in TJU
 
+<img src="../img/a9_MeritStudent.jpg" alt="Image 1" style="width: auto;height: 300px;">
 
- **Dec. 2020:** Advanced individual in Learning Progress
+- **Dec. 2020:** Advanced individual in Learning Progress
 
 <img src="../img/a10_AdvancedIndividual.jpg" alt="Image 2" style="width: auto;height: 300px;">
 
