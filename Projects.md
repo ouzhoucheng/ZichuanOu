@@ -22,9 +22,16 @@ title: Project experience
 - **Award:** **1st Prize** in national finals, The National University Students intelligent Car Race
 - [video](https://www.bilibili.com/video/BV1tL4y1T7xn/) [code](https://github.com/ouzhoucheng/S-M-A-R-T-C-A-R)
 
-<iframe src="https://player.bilibili.com/player.html?bvid=BV1tL4y1T7xn&page=1" scrolling="no" width="480" height="320" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<div style="display: inline-block;">
+  <div class="csdn-card" style="float: left; margin-right: 40px;">
+    <iframe src="https://player.bilibili.com/player.html?bvid=BV1tL4y1T7xn&page=1" scrolling="no" width="420" height="280" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+  </div>
+  <div class="csdn-card" style="float: right;">
+    <iframe src="https://player.bilibili.com/player.html?bvid=BV1tL4y1T7xn&page=4" scrolling="no" width="420" height="280" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+  </div>
+</div>
 
-<iframe src="https://player.bilibili.com/player.html?bvid=BV1tL4y1T7xn&page=4" scrolling="no" width="480" height="320" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
 
 # TI cup: Intelligent drug delivery car Nov. 2021
 - **Date:** Nov. 2021
