@@ -5,8 +5,8 @@ url: https://ouzhoucheng.github.io/ZichuanOu/
 avatar: /img/b4_Zichuan.jpg
 paginate: 5
 permalink: pretty
-cover_image: /img/DYSON.jpg
-# cover_image: /img/b2_Taiji_Bagua.gif
+# cover_image: /img/DYSON.jpg
+cover_image: /img/Planet.gif
 
 # Gems
 plugins:
