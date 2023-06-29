@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Awards2
+title: Awards
 ---
   
 - **Dec. 2020:** Merit student in TJU

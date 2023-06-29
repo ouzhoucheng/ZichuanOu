@@ -59,4 +59,11 @@ title: Project experience
 - **Date:** Jun. 2022 - Feb. 2023
 - Develop and maintain the embedded devices in the autonomous vehicle "Hercules", include VCU(Vehicle Control Unit), SSU(Sensor Syncronization Unit), BCM(Body Control Unit) and T-Box(Telematics box).
 - Develop chassis controller in the ACU(Automated-Driving Control Unit) internal mcu.
+- Develop FOTA in Hercules
 - <https://www.unity-drive.com/>
+
+<div style="display: inline-block;">
+  <div class="csdn-card" style="float: left; margin-right: 20px;">
+    <img src="../img/b10_FOTA.gif" alt="Image 3" style="width: auto;height: 300px;">
+  </div>
+</div>
