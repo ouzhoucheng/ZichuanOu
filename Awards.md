@@ -43,4 +43,4 @@ title: Awards
 
 - **Oct. 2022:** Science & Technology excellence award
 
-  <img src="../img/a8_2022Excellence.jpg" alt="Image 11" style="width: auto;height: 300px;">
+<img src="../img/a8_2022Excellence.jpg" alt="Image 11" style="width: auto;height: 300px;">
