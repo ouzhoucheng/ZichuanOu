@@ -13,11 +13,11 @@ title: Projects
   - 无人车域控制器 MCU 的开发与测试、域控制器硬件测试
   - 基于 Node-RED 和 UDS 诊断协议实现无人车 FOTA 升级
 
-<div style="display: inline-block;">
-  <div class="csdn-card" style="float: left; margin-right: 20px;">
-    <img src="../img/b10_FOTA.gif" alt="Image 3" style="width: auto;height: 300px;">
+  <div style="display: inline-block;">
+    <div class="csdn-card" style="float: left; margin-right: 20px;">
+      <img src="../img/b10_FOTA.gif" alt="Image 3" style="width: auto;height: 300px;">
+    </div>
   </div>
-</div>
 
 
 # TI 杯电子设计竞赛：智能送药小车
@@ -29,14 +29,14 @@ title: Projects
 - **获奖:** **国赛一等奖** 2021 年 TI 杯全国大学生电子设计竞赛
 - [视频](https://www.bilibili.com/video/BV13L411K7ex/?vd_source=9b67f8488b53e45de247e5881ac151bf) [项目](https://github.com/ouzhoucheng/T-I-C-U-P)
 
-<div style="display: inline-block;">
-  <div class="csdn-card" style="float: left; margin-right: 20px;">
-    <img src="../img/b9_Tricycles.jpg" alt="Image 3" style="width: auto;height: 300px;">
+  <div style="display: inline-block;">
+    <div class="csdn-card" style="float: left; margin-right: 20px;">
+      <img src="../img/b9_Tricycles.jpg" alt="Image 3" style="width: auto;height: 300px;">
+    </div>
+    <div class="csdn-card" style="float: right;">
+      <iframe src="https://player.bilibili.com/player.html?bvid=BV13L411K7ex&page=1" scrolling="no" width="400" height="240" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+    </div>
   </div>
-  <div class="csdn-card" style="float: right;">
-    <iframe src="https://player.bilibili.com/player.html?bvid=BV13L411K7ex&page=1" scrolling="no" width="400" height="240" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-  </div>
-</div>
 
 
 # 16届全国大学生智能汽车竞赛：智能视觉组
@@ -50,16 +50,16 @@ title: Projects
 - **奖项:** **国赛一等奖** 16届全国大学生智能汽车竞赛
 - [video](https://www.bilibili.com/video/BV1tL4y1T7xn/) [code](https://github.com/ouzhoucheng/S-M-A-R-T-C-A-R)
 
-<img src="../img/b8_SmartCar.jpg" alt="Image 2" style="width: auto;height: 300px;">
+  <img src="../img/b8_SmartCar.jpg" alt="Image 2" style="width: auto;height: 300px;">
 
-<div style="display: inline-block;">
-  <div class="csdn-card" style="float: left; margin-right: 20px;">
-    <iframe src="https://player.bilibili.com/player.html?bvid=BV1tL4y1T7xn&page=1" scrolling="no" width="400" height="240" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+  <div style="display: inline-block;">
+    <div class="csdn-card" style="float: left; margin-right: 20px;">
+      <iframe src="https://player.bilibili.com/player.html?bvid=BV1tL4y1T7xn&page=1" scrolling="no" width="400" height="240" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+    </div>
+    <div class="csdn-card" style="float: right;">
+      <iframe src="https://player.bilibili.com/player.html?bvid=BV1tL4y1T7xn&page=4" scrolling="no" width="400" height="240" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+    </div>
   </div>
-  <div class="csdn-card" style="float: right;">
-    <iframe src="https://player.bilibili.com/player.html?bvid=BV1tL4y1T7xn&page=4" scrolling="no" width="400" height="240" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-  </div>
-</div>
 
 # TI 杯电子设计竞赛：无接触温度测量与身份识别装置
 - **日期:** 2020.10.4-7
@@ -71,9 +71,24 @@ title: Projects
 - **奖项:** **天津市二等奖** 2020年TI杯电子设计竞赛
 - [项目](https://github.com/ouzhoucheng/open-cv-face-recognition)
 
-<img src="../img/b7_FaceRecognitionDevice.jpg" alt="Image 1" style="width: auto;height: 300px;">
+  <img src="../img/b7_FaceRecognitionDevice.jpg" alt="Image 1" style="width: auto;height: 300px;">
 
 
 
+# 其他项目
+- [八卦阵 (51仿真)](https://blog.csdn.net/weixin_46143152/article/details/113789422)
+  <img src="https://img-blog.csdnimg.cn/f43e737f15bf47278c206ed9d8a7d4c6.gif" alt="Image 1" style="width: auto;height: 300px;">
+- [蓝牙遥控平衡小车 (stm32)](https://blog.csdn.net/weixin_46143152/article/details/113787033)
+  <img src="https://img-blog.csdnimg.cn/bd7d8d216aad40c0be4b8a12973a58e7.gif" alt="Image 1" style="width: auto;height: 300px;">
+- [红外测温枪 (stm32)](https://blog.csdn.net/weixin_46143152/article/details/113787146)
+  <img src="https://img-blog.csdnimg.cn/20210210234000346.jpg" alt="Image 1" style="width: auto;height: 300px;">
+- [转速测量仪 (stm32)](https://blog.csdn.net/weixin_46143152/article/details/113917650)
+  <img src="https://img-blog.csdnimg.cn/20210221142531379.jpg" alt="Image 1" style="width: auto;height: 300px;">
+- [FPGA时钟 (FPGA,Verilog)](https://blog.csdn.net/weixin_46143152/article/details/122648005)
+  <iframe src="https://www.bilibili.com/video/BV1JP4y17797" scrolling="no" width="400" height="240" border="0" frameborder="no" framespacing="0" allowfullscreen="true">
+- [OCR数字识别 (labview)](https://blog.csdn.net/weixin_46143152/article/details/122691991)
+  <img src="https://img-blog.csdnimg.cn/68f7c413fd4d40ab98675c9549e1db8d.png" alt="Image 1" style="width: auto;height: 300px;">
+- [工程光学实验平台 (matlab)](https://blog.csdn.net/weixin_46143152/article/details/122694389)
+  <img src="https://img-blog.csdnimg.cn/55ab432f8c8544bda32d3e4a01fe1ea5.gif" alt="Image 1" style="width: auto;height: 300px;">
 
 
