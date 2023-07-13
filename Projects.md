@@ -76,6 +76,11 @@ title: Projects
 
 
 # 其他项目
+
+- [光润心灵 (C4D动画)](https://www.bilibili.com/video/BV1ZP4y1A7qP)
+
+  <img src="../img/projects/Color.gif" alt="Image 11" style="width: auto;height: 300px;">
+
 - [八卦阵 (51仿真)](https://blog.csdn.net/weixin_46143152/article/details/113789422)
   
   <img src="../img/projects/8gua.gif" alt="Image 11" style="width: auto;height: 300px;">
@@ -94,9 +99,7 @@ title: Projects
 
 - [FPGA时钟 (FPGA,Verilog)](https://blog.csdn.net/weixin_46143152/article/details/122648005)
   
-  <div class="csdn-card" style="float: left; margin-right: 20px;">
-      <iframe src="https://www.bilibili.com/video/BV1JP4y17797" scrolling="no" width="400" height="240" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-    </div>
+  <img src="../img/projects/Clock.png" alt="Image 15" style="width: auto;height: 300px;">
 
 - [OCR数字识别 (labview)](https://blog.csdn.net/weixin_46143152/article/details/122691991)
   
@@ -105,4 +108,3 @@ title: Projects
 - [工程光学实验平台 (matlab)](https://blog.csdn.net/weixin_46143152/article/details/122694389)
   
   <img src="../img/projects/optics.gif" alt="Image 16" style="width: auto;height: 300px;">
-
