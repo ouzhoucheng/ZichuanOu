@@ -78,19 +78,19 @@ title: Projects
 # 其他项目
 - [八卦阵 (51仿真)](https://blog.csdn.net/weixin_46143152/article/details/113789422)
   
-  <img src="https://img-blog.csdnimg.cn/f43e737f15bf47278c206ed9d8a7d4c6.gif" alt="Image 11" style="width: auto;height: 300px;">
+  <img src="../img/../githubio/img/projects/8gua.gif" alt="Image 11" style="width: auto;height: 300px;">
 
 - [蓝牙遥控平衡小车 (stm32)](https://blog.csdn.net/weixin_46143152/article/details/113787033)
   
-  <img src="https://img-blog.csdnimg.cn/bd7d8d216aad40c0be4b8a12973a58e7.gif" alt="Image 12" style="width: auto;height: 300px;">
+  <img src="../img/../githubio/img/projects/balance_car.gif" alt="Image 12" style="width: auto;height: 300px;">
 
 - [红外测温枪 (stm32)](https://blog.csdn.net/weixin_46143152/article/details/113787146)
   
-  <img src="https://img-blog.csdnimg.cn/20210210234000346.jpg" alt="Image 13" style="width: auto;height: 300px;">
+  <img src="../img/../githubio/img/projects/temp_gun.jpg" alt="Image 13" style="width: auto;height: 300px;">
 
 - [转速测量仪 (stm32)](https://blog.csdn.net/weixin_46143152/article/details/113917650)
   
-  <img src="https://img-blog.csdnimg.cn/20210221142531379.jpg" alt="Image 14" style="width: auto;height: 300px;">
+  <img src="../img/../githubio/img/projects/tachometer.jpg" alt="Image 14" style="width: auto;height: 300px;">
 
 - [FPGA时钟 (FPGA,Verilog)](https://blog.csdn.net/weixin_46143152/article/details/122648005)
   
@@ -98,9 +98,9 @@ title: Projects
 
 - [OCR数字识别 (labview)](https://blog.csdn.net/weixin_46143152/article/details/122691991)
   
-  <img src="https://img-blog.csdnimg.cn/68f7c413fd4d40ab98675c9549e1db8d.png" alt="Image 15" style="width: auto;height: 300px;">
+  <img src="../img/../githubio/img/projects/ocr.png" alt="Image 15" style="width: auto;height: 300px;">
 
 - [工程光学实验平台 (matlab)](https://blog.csdn.net/weixin_46143152/article/details/122694389)
   
-  <img src="https://img-blog.csdnimg.cn/55ab432f8c8544bda32d3e4a01fe1ea5.gif" alt="Image 16" style="width: auto;height: 300px;">
+  <img src="../img/../githubio/img/projects/optics.gif" alt="Image 16" style="width: auto;height: 300px;">
 
