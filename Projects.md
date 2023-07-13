@@ -79,7 +79,7 @@ title: Projects
 
 - [光润心灵 (C4D动画)](https://www.bilibili.com/video/BV1ZP4y1A7qP)
 
-  <img src="../img/projects/Color.gif" alt="Image 11" style="width: auto;height: 300px;">
+  <img src="../img/projects/Color.gif" alt="Image 18" style="width: auto;height: 300px;">
 
 - [八卦阵 (51仿真)](https://blog.csdn.net/weixin_46143152/article/details/113789422)
   
@@ -99,7 +99,7 @@ title: Projects
 
 - [FPGA时钟 (FPGA,Verilog)](https://blog.csdn.net/weixin_46143152/article/details/122648005)
   
-  <img src="../img/projects/Clock.png" alt="Image 15" style="width: auto;height: 300px;">
+  <img src="../img/projects/Clock.gif" alt="Image 17" style="width: auto;height: 300px;">
 
 - [OCR数字识别 (labview)](https://blog.csdn.net/weixin_46143152/article/details/122691991)
   
