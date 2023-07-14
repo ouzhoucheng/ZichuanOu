@@ -5,13 +5,16 @@ title: Projects
 
 # 实习: 深圳一清创新 系统集成组 嵌入式软件实习生
 - **时间:** 2022.6 - 2023.7
-- **项目:** 夸父车型电子电器架构升级项目；ACU 域控制器项目；无人车 FOTA 项目等等
-- **工作:** 
-  - 基于FreeRTOS对车载SSU、VCU、TBox、BCM进行功能开发、测试和维护
-  - 参与无人车域控制器MCU的功能开发与测试、协助进行域控制器硬件测试
-  - 基于Node-RED实现了一个无人车FOTA平台，基于UDS、MQTT、CAN等协议实现了TBox、VCU和SSU的FOTA升级
-  - 参与IMU 传感器调研, 组织研讨会和性能测试测试
-  - 维护某通讯接口ROS节点
+- **夸父等多个车型电器升级与适配工作**
+  - 深度参与车载SSU、VCU、TBox的FreeRTOS功能开发、上车测试和维护工作；参与IMU、编码器等传感器的调试工作；参与无人车电器调试工作
+- **ACU域控制器项目**
+  - 设计ROS程序向RTOS移植架构、深度参与无人车域控制器MCU的功能开发、台架测试与上车测试；协助域控制器硬件测试；绘制上电时序图等
+- **传感器替代升级项目**
+  - 调研汇总了多个品牌的IMU参数；组织IMU研讨会；推进新IMU上车测试工作；测量IMU数据链路延时
+- **无人车FOTA项目**
+  - 基于NodeRED、JavaScript等实现了无人车FOTA云平台；基于UDS、CAN、UART、MQTT等协议，在TBox、VCU和SSU上开发FOTA功能，实现了无人车嵌入式设备的FOTA
+- **多个底盘软件适配工作**
+  - CAN通讯等ROS节点的测试和维护工作；参与车辆运动测试工作
 
   <div style="display: inline-block;">
     <div class="csdn-card" style="float: left; margin-right: 20px;">
