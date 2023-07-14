@@ -5,13 +5,13 @@ title: Projects
 
 # 实习: 深圳一清创新 系统集成组 嵌入式软件实习生
 - **时间:** 2022.6 - 2023.7
-- **项目:** 夸父车型电子电器架构升级项目；ACU 域控制器项目；无人车 FOTA 项目
+- **项目:** 夸父车型电子电器架构升级项目；ACU 域控制器项目；无人车 FOTA 项目等等
 - **工作:** 
-  - 车载 SSU、VCU、TBox、BCM 的开发、测试和维护
-  - ROS 应用开发与维护
-  - IMU 传感器调研与测试
-  - 无人车域控制器 MCU 的开发与测试、域控制器硬件测试
-  - 基于 Node-RED 和 UDS 诊断协议实现无人车 FOTA 升级
+  - 基于FreeRTOS对车载SSU、VCU、TBox、BCM进行功能开发、测试和维护
+  - 参与无人车域控制器MCU的功能开发与测试、协助进行域控制器硬件测试
+  - 基于Node-RED实现了一个无人车FOTA平台，基于UDS、MQTT、CAN等协议实现了TBox、VCU和SSU的FOTA升级
+  - 参与IMU 传感器调研, 组织研讨会和性能测试测试
+  - 维护某通讯接口ROS节点
 
   <div style="display: inline-block;">
     <div class="csdn-card" style="float: left; margin-right: 20px;">
@@ -24,8 +24,9 @@ title: Projects
 - **时间:** 2021.11.7-10
 - **简介:** 两台可以识别数字、循迹、协同配送的送药小车。
 - **工作:** 队长
-  - 四天三夜内设计总体方案、整车结构、固定件和组装；
-  - 用 rt1064 实现彩色视觉感知、色彩空间转换、轨迹提取和定位、规划控制和多车通信协作。
+  - 四天三夜内设计总体任务方案
+  - 用rt1064实现彩色视觉感知、色彩空间转换、轨迹提取和定位、车身规划控制和多车通信协作等，完成赛题任务
+  - 设计整车结构、固定件，安排组员进行组装
 - **获奖:** **国赛一等奖** 2021 年 TI 杯全国大学生电子设计竞赛
 - [视频](https://www.bilibili.com/video/BV13L411K7ex/?vd_source=9b67f8488b53e45de247e5881ac151bf) [项目](https://github.com/ouzhoucheng/T-I-C-U-P)
 
@@ -45,8 +46,8 @@ title: Projects
 - **工作:** 队长
   1. 设计任务方案，跟进整体进度，采购元器件
   2. 用 rt1064 实现通信、灰度视觉感知、道路提取和定位、规划控制和特殊机动等功能
-  3. 绘制主控驱动一体化 pcb 和供电 pcb 并焊接调试
-  4. 整车结构、固定件和组装
+  3. 绘制主控驱动一体化pcb和供电pcb，焊接调试
+  4. 用Solidworks画固定件，3D打印，设计整车结构，组装整车
 - **奖项:** **国赛一等奖** 16届全国大学生智能汽车竞赛
 - [video](https://www.bilibili.com/video/BV1tL4y1T7xn/) [code](https://github.com/ouzhoucheng/S-M-A-R-T-C-A-R)
 
@@ -67,7 +68,7 @@ title: Projects
 - **工作:** 
   1. 用stm32读取温度传感器并显示
   2. 用树莓派训练和识别人脸
-  3. 设计结构，供电布局和组装
+  3. 设计系统机械结构，供电布局，将系统组装成高大上的样子
 - **奖项:** **天津市二等奖** 2020年TI杯电子设计竞赛
 - [项目](https://github.com/ouzhoucheng/open-cv-face-recognition)
 
